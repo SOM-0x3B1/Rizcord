@@ -4,8 +4,8 @@
 }
 
 body{
-    --main-bg-color: rgb(56, 56, 56);
-    --dark-bg-color: rgb(56, 56, 56);
+    --main-bg-color: rgb(41, 41, 41);
+    --dark-bg-color: #383838;
     --main-fg-color: rgb(200, 200, 200);
 
     width: 100vw;
