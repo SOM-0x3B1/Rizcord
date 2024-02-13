@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    --main-bg-color: rgb(56, 56, 56);
+    --dark-bg-color: rgb(56, 56, 56);
+    --main-fg-color: rgb(200, 200, 200);
+
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--main-bg-color);
+    color: var(--main-fg-color);
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 4vmin;
+}
